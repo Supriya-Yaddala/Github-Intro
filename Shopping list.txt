@@ -4,3 +4,4 @@ bananas
 oranges
 guavas
 grapes
+pomegranates
